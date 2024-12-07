@@ -1,0 +1,30 @@
+Smoothie Machine
+Description
+The Smoothie Machine is a web application that allows customers to order a smoothie by selecting the size and ingredients. The application displays an order summary, including the selected ingredients, size, and price, as well as a visual representation of the smoothie.
+
+Features
+Choose from Small, Medium, or Large smoothie sizes.
+Select ingredients (banana, strawberry, mango, blueberry).
+View smoothie summary with price and corresponding image.
+Technologies
+HTML: Structure of the page.
+CSS: Styling of the page.
+JavaScript: Handles form interactivity, price calculation, and smoothie summary.
+Images: Smoothie images for different sizes.
+How to Use
+Open index.html in your browser.
+Select the smoothie size and ingredients.
+Click "Order Smoothie" to view the order summary with price and image.
+Project Structure
+index.html: Main HTML file with the form.
+style.css: Styles for the page.
+script.js: JavaScript for form functionality and price calculation.
+/images: Folder containing smoothie images.
+Installation
+Clone or download the repository.
+Ensure the images folder is correctly linked.
+Open index.html to test the application.
+Live Project
+[Insert live project URL here]
+GitHub Repository
+[Insert GitHub repository link here]
